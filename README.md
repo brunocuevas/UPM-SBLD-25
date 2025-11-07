@@ -9,13 +9,14 @@ This repository contains teaching materials and code examples for the Computatio
 git clone https://github.com/brunocuevas/UPM-SBLD-25.git
 ```
 
-2. Install dependencies (if any):
+2. Install dependencies:
 ```bash
 cd sbld25
-# Add specific installation commands here
+uv init
+uv add .
 ```
 
-3. Navigate through the course materials in their respective directories.
+3. Run the materials.
 
 ## Structure
 
